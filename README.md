@@ -12,22 +12,23 @@ Esta aplicación permite gestionar usuarios, incluyendo la visualización, búsq
 
 1. **Clonar el Repositorio**
 
-   git clone https://github.com/NayheliMLoza/Challenge-ingreso-For-IT.git
+   git clone https://github.com/NayheliMLoza/For-it.git
+   
    cd ingreso_forit
 
-2. **Instalar Dependencias**
+3. **Instalar Dependencias**
 
    Ejecuta el siguiente comando en la terminal para instalar las dependencias necesarias:
 
    npm install
 
-3. **Iniciar la Aplicación**
+4. **Iniciar la Aplicación**
 
    Ejecuta el siguiente comando para iniciar la aplicación en modo de desarrollo:
 
    npm start
 
-4. **Abrir la Aplicación**
+5. **Abrir la Aplicación**
 
    Una vez que la aplicación se esté ejecutando, abre tu navegador y navega a:
 
